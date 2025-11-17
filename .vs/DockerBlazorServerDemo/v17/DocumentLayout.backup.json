@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deved\\OneDrive\\Udemy\\instructor\\Docker_DevOps\\VS Projects\\DockerBlazorServerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B97FBCC-D385-4900-9F3D-992F41EB1586}|DockerBlazorServerDemo.csproj|c:\\users\\deved\\onedrive\\udemy\\instructor\\docker_devops\\vs projects\\dockerblazorserverdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B97FBCC-D385-4900-9F3D-992F41EB1586}|DockerBlazorServerDemo.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B97FBCC-D385-4900-9F3D-992F41EB1586}|DockerBlazorServerDemo.csproj|c:\\users\\deved\\onedrive\\udemy\\instructor\\docker_devops\\vs projects\\dockerblazorserverdemo\\dockerblazorserverdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B97FBCC-D385-4900-9F3D-992F41EB1586}|DockerBlazorServerDemo.csproj|solutionrelative:dockerblazorserverdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\deved\\OneDrive\\Udemy\\instructor\\Docker_DevOps\\VS Projects\\DockerBlazorServerDemo\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\deved\\OneDrive\\Udemy\\instructor\\Docker_DevOps\\VS Projects\\DockerBlazorServerDemo\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T00:38:30.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DockerBlazorServerDemo",
+              "DocumentMoniker": "C:\\Users\\deved\\OneDrive\\Udemy\\instructor\\Docker_DevOps\\VS Projects\\DockerBlazorServerDemo\\DockerBlazorServerDemo.csproj",
+              "RelativeDocumentMoniker": "DockerBlazorServerDemo.csproj",
+              "ToolTip": "C:\\Users\\deved\\OneDrive\\Udemy\\instructor\\Docker_DevOps\\VS Projects\\DockerBlazorServerDemo\\DockerBlazorServerDemo.csproj",
+              "RelativeToolTip": "DockerBlazorServerDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T00:33:41.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
